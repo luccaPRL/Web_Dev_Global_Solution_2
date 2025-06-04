@@ -13,7 +13,7 @@ const Solucao = () => {
       <h1 className="text-3xl font-bold mb-4">Solução Proposta</h1>
       <p className="mb-8 max-w-3xl">
         Através deste sistema, você poderá acessar informações atualizadas sobre riscos de enchentes, 
-        rotas de segurança, instruções de emergência e contatos úteis.
+        rotas de segurança, instruções de emergência e contatos essenciais.
       </p>
 
       {previsao && (
