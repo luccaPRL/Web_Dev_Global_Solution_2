@@ -20,7 +20,7 @@ const Solucao = () => {
         <div className="bg-blue-50 border border-blue-200 p-6 rounded-2xl shadow-md w-full max-w-md mx-auto transition hover:shadow-xl">
           <h2 className="text-2xl font-semibold text-blue-700 flex items-center gap-2 mb-4">
             <span>🌧️</span>
-            Previsão do Tempo
+            Previsão Do Tempo
           </h2>
           <div className="text-gray-800 space-y-2">
             <p><span className="font-semibold">Cidade:</span> {previsao.cidade}</p>
